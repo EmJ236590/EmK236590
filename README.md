@@ -2,7 +2,8 @@
 
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm Emily Kraemer, a student at Brigham Young University-Idaho interested in Cybersecurity in the field of Digital Forensics
+Welcome to my GitHub profile!
 
 ## About Me
 
