@@ -18,7 +18,6 @@ Welcome to my GitHub profile!
 
 ## Let's Connect!
 
-- Here is my [https://www.linkedin.com/in/emily-kraemer-0a8a13315/](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my LinkedIn [https://www.linkedin.com/in/emily-kraemer-0a8a13315/] LinkedIn Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
