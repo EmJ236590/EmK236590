@@ -7,18 +7,18 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning JavaScript and Linux Programming
+- My goal is to pursue a career in Cybersecurity specifically to help prevent scams and cyberterrorism. 
+- Ask me about what inspired me 
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: <Html and CSS, Python, Microsoft Software, Server Management.>
+- Skills: <Customer Service, Beginner IT experience, Google Firebase, Amazon Web Services>
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
+- Here is my [https://www.linkedin.com/in/emily-kraemer-0a8a13315/](Your LinkedIn Profile Link) profile
 - Here is my [Twitter](Your Twitter Profile Link) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
